@@ -2,56 +2,65 @@
 <h3 align="center">CSE @ NIT Calicut | Backend Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+DSA+Lover+%7C+DevOps+Learner;Full+Stack+Developer+%7C+Docker+%7C+AWS;Building+CodeClashes+Online+Judge+Platform" alt="Typing SVG" />
+  <a href="mailto:asifmohammed85113@gmail.com">
+    <img src="https://img.shields.io/badge/Email-asifmohammed85113@gmail.com-blue?style=flat-square&logo=gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=asifmohammed786&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me:
-- 🎓 CSE Student at **NIT Calicut** (Batch 2026)
-- 🔭 Building **CodeClashes** – An end-to-end Online Judge platform
-- 💡 Exploring **DevOps**, **System Design**, and **Cloud Deployments**
-- ⚙️ Skilled in: `React`, `Node.js`, `Express.js`, `MongoDB`, `Docker`, `AWS EC2`
-- 🌱 Currently learning: `Kubernetes`, `Next.js`, `AI integrations`
-- 💬 Ask me about DSA, Backend Architecture, or AWS
+### 🚀 Currently Building:
+🛠 **CodeClashes** – An end-to-end Online Judge platform \
+🌐 Hosted at: [codeclashes.com](https://codeclashes.com)
+
+---
+
+### 👨‍💻 About Me:
+- 🎓 CSE Student @ **NIT Calicut** (Batch 2026)
+- 🧠 Exploring **DevOps, System Design, and Cloud Deployments**
+- 💻 Skilled in: `React`, `Node.js`, `Express.js`, `MongoDB`, `Docker`, `AWS EC2`
+- 🚀 Learning: `Kubernetes`, `Next.js`, `AI integrations`
+- 💬 Ask me about: DSA, Backend Architecture, or AWS
 - 📫 Reach out: [asifmohammed85113@gmail.com](mailto:asifmohammed85113@gmail.com)
 
 ---
 
-### 🔧 Technologies & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,cpp,py,git,github,docker,aws,vercel,netlify,vscode,linux" />
+### ⚙️ Technologies & Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,aws,linux,vscode,git,github" />
 </p>
 
 ---
 
-### 🚀 Projects
-- 🔥 [CodeClashes](https://github.com/asifmohammed786/CodeJudge) – Online Judge Platform (MERN + Docker + AWS)
-- 💼 Student Lab Booking System – Time-slot based lab usage management (like a movie booking system)
-- 🔧 Compiler Project using **Lex/Yacc** – Designed a mini compiler for Bcs22 language
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asifmohammed786&show_icons=true&theme=react&hide=prs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifmohammed786&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asifmohammed786&show_icons=true&theme=github_dark&hide=issues" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifmohammed786&layout=compact&theme=github_dark" height="170" />
 </p>
 
 ---
 
-### 📫 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/asifmohammed786/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:asifmohammed85113@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+### ⌨️ Fun Typing Animation:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+DevOps+Enthusiast;Loves+building+Web+apps;Cloud+Deployment+Fanatic+☁️;Open+Source+Contributor" />
 </p>
 
 ---
 
-### ✨ Fun Fact
-> 💭 “I love building full-stack systems and debugging late-night production issues more than I love sleep!” 😄
+### 🧩 Quote to live by:
+> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+
+---
+
+### 🔗 Connect with Me:
+<p>
+  <a href="https://linkedin.com/in/asifmohammed786">
+    <img src="https://img.shields.io/badge/-AsifMohammed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/asifmohammed786" />
+  </a>
+  <a href="https://github.com/asifmohammed786">
+    <img src="https://img.shields.io/badge/-asifmohammed786-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
