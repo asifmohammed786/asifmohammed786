@@ -49,7 +49,11 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asifmohammed786&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asifmohammed786&theme=onedark&title=Stars,Commits,Followers,PullRequest,Issues,Repositories&margin-w=15&no-frame=true" />
+</p>
 
 
 ---
