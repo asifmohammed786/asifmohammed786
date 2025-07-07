@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Asif Mohammed Hasan</h1>
+<h3 align="center">CSE @ NIT Calicut | Backend Developer | Open Source Enthusiast</h3>
 
-<!--
-**asifmohammed786/asifmohammed786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+DSA+Lover+%7C+DevOps+Learner;Full+Stack+Developer+%7C+Docker+%7C+AWS;Building+CodeClashes+Online+Judge+Platform" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me:
+- 🎓 CSE Student at **NIT Calicut** (Batch 2026)
+- 🔭 Building **CodeClashes** – An end-to-end Online Judge platform
+- 💡 Exploring **DevOps**, **System Design**, and **Cloud Deployments**
+- ⚙️ Skilled in: `React`, `Node.js`, `Express.js`, `MongoDB`, `Docker`, `AWS EC2`
+- 🌱 Currently learning: `Kubernetes`, `Next.js`, `AI integrations`
+- 💬 Ask me about DSA, Backend Architecture, or AWS
+- 📫 Reach out: [asifmohammed85113@gmail.com](mailto:asifmohammed85113@gmail.com)
+
+---
+
+### 🔧 Technologies & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,cpp,py,git,github,docker,aws,vercel,netlify,vscode,linux" />
+</p>
+
+---
+
+### 🚀 Projects
+- 🔥 [CodeClashes](https://github.com/asifmohammed786/CodeJudge) – Online Judge Platform (MERN + Docker + AWS)
+- 💼 Student Lab Booking System – Time-slot based lab usage management (like a movie booking system)
+- 🔧 Compiler Project using **Lex/Yacc** – Designed a mini compiler for Bcs22 language
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asifmohammed786&show_icons=true&theme=react&hide=prs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifmohammed786&theme=react" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/asifmohammed786/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:asifmohammed85113@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Fact
+> 💭 “I love building full-stack systems and debugging late-night production issues more than I love sleep!” 😄
