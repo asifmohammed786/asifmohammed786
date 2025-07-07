@@ -53,9 +53,10 @@
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asifmohammed786&theme=onedark&title=Stars,Commits,Followers,PullRequest,Issues,Repositories&margin-w=15&no-frame=true" />
+  <a href="https://github.com/asifmohammed786">
+    <img src="https://github-profile-trophy.vercel.app/?username=asifmohammed786&theme=gruvbox&row=1&margin-w=20" />
+  </a>
 </p>
-
 
 ---
 
