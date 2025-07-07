@@ -19,19 +19,13 @@
 
 ---
 
-🔧 Technologies & Tools
-🖥️ Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,java,py,js" alt="Languages" /> </p>
-🛠️ Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Stack" /> </p>
-🎨 Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Frontend Stack" /> </p>
-☁️ Cloud & Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=aws,gcp,mongodb" alt="Cloud & Databases" /> </p>
-🌐 Web Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /> <img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"/> </p>
-🧰 Developer Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=postman,vscode,git,github,vercel,netlify,linux" alt="Dev Tools" /> </p>
+### 🔧 Technologies & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,nodejs,express,react,tailwind,html,css,mongodb,aws,gcp,docker,postman,vscode,github" />
+  <img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="25" />
+</p>
+
 
 ### 🚀 Projects
 - 🔥 [CodeClashes](https://github.com/asifmohammed786/CodeJudge) – Online Judge Platform (MERN + Docker + AWS)
