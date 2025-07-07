@@ -45,17 +45,12 @@
 
 ---
 
-### 📈 GitHub Contributions Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=asifmohammed786&theme=react-dark" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asifmohammed786&theme=react-dark&hide_border=true)
 
 ---
 
-### 🧩 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asifmohammed786&theme=darkhub&margin-w=10&margin-h=10&column=8" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=asifmohammed786&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
