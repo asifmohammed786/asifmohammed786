@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+DSA+Lover+%7C+DevOps+Learner;Full+Stack+Developer+%7C+Docker+%7C+AWS;Building+CodeClashes+Online+Judge+Platform" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ### 🧑‍💻 About Me:
@@ -16,6 +15,8 @@
 - 🌱 Currently learning: `Kubernetes`, `Next.js`, `AI integrations`
 - 💬 Ask me about DSA, Backend Architecture, or AWS
 - 📫 Reach out: [asifmohammed85113@gmail.com](mailto:asifmohammed85113@gmail.com)
+- 🛠️ Contributing to open source and writing clean, production-level code
+- 🧠 Passionate about solving real-world problems with scalable systems
 
 ---
 
@@ -26,6 +27,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="25" />
 </p>
 
+---
 
 ### 🚀 Projects
 - 🔥 [CodeClashes](https://github.com/asifmohammed786/CodeJudge) – Online Judge Platform (MERN + Docker + AWS)
@@ -35,11 +37,32 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asifmohammed786&show_icons=true&theme=react&hide=prs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asifmohammed786&show_icons=true&theme=react&hide=prs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifmohammed786&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifmohammed786&layout=compact&theme=react" />
 </p>
+
+---
+
+### 📈 GitHub Contributions Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=asifmohammed786&theme=react-dark" />
+</p>
+
+---
+
+### 🧩 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asifmohammed786&theme=darkhub&margin-w=10&margin-h=10&column=8" />
+</p>
+
+---
+
+### 🛠 Workflows & CI/CD
+- ⛓ Built and deployed using GitHub Actions & Docker
+- ☁️ Used AWS EC2, Route 53, S3, and CloudFront for production deployment
+- 🧪 Includes testing, containerization, and error handling for stability
 
 ---
 
@@ -56,4 +79,10 @@
 ---
 
 ### ✨ Fun Fact
-> 💭 “I love building full-stack systems and debugging late-night production issues more than I love sleep!” 😄
+> 💭 “I love building full-stack systems and debugging late-night production issues more than I love sleep!” 😄 
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
