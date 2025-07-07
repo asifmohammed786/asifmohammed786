@@ -45,7 +45,7 @@
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/asifmohammed786/" target="_blank">
+  <a href="www.linkedin.com/in/mohammed-asif-hasan-2a4b8a29a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:asifmohammed85113@gmail.com">
