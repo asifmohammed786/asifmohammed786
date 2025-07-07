@@ -2,8 +2,9 @@
 <h3 align="center">CSE @ NIT Calicut | Backend Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+DSA+Lover+%7C+DevOps+Learner;Full+Stack+Developer+%7C+Docker+%7C+AWS;Building+CodeClashes+Online+Judge+Platform" alt=" SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+DSA+Lover+%7C+DevOps+Learner;Full+Stack+Developer+%7C+Docker+%7C+AWS;Building+CodeClashes+Online+Judge+Platform" alt="Typing SVG" />
 </p>
+
 
 ---
 
