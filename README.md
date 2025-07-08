@@ -32,8 +32,8 @@
 ---
 
 ### 🚀 Projects
-- 🔥 [CodeClashes](https://github.com/asifmohammed786/CodeJudge) – Online Judge Platform (MERN + Docker + AWS)
-- 💼 Student Lab Booking System – Time-slot based lab usage management (like a movie booking system)
+- 🔥 [CodeClashes](https://github.com/asifmohammed786/CodeJudge) - codeclashes.com – Online Judge Platform (MERN + Docker + AWS)
+- 💼 Student Lab Booking System – Time-slot based lab usage management (like movie booking system)
 - 🔧 Compiler Project using **Lex/Yacc** – Designed a mini compiler for Bcs22 language
 
 ---
